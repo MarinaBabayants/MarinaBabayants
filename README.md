@@ -33,7 +33,7 @@ web development, all achieved through my own efforts.
 
   <tr>
 
-        🇬🇧 English - Pre-Intermediate
+        🇬🇧 English - Upper-Intermediate
 
   </tr>
 </table>
